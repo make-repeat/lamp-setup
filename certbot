@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Go uncomment the lines that certbot just commented out in the SSL conf file."
